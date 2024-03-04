@@ -19,3 +19,6 @@ class Youtube implements TakePhoto {
         public burst:number
     ){}
 }
+
+
+const obj1= new Instagram("h@h.com","gsr",20);
